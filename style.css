@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url("../MEMORY-GAME/cat in hammock.jpeg");
+  background-image: url("../memory-game/cat in hammock.jpeg");
   height: 100vh;
   display: flex;
 }
